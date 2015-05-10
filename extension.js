@@ -57,7 +57,7 @@
     localStorage.setItem("basicBotsettings", JSON.stringify({
         botName: "Poinciana",
         language: "english",
-        startupCap: 200, // 1-200
+        startupCap: 1, // 1-200
         startupVolume: 0, // 0-100
         startupEmoji: true, // true or false
         cmdDeletion: true,
